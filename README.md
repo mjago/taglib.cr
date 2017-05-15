@@ -9,7 +9,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   taglib:
-    github: mjago/taglib
+    github: mjago/taglib.cr
 ```
 
 ## Usage
